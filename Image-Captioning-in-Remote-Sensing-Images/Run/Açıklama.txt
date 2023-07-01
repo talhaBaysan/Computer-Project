@@ -1,0 +1,6 @@
+Veri seti, Database klasoründe verilen linkten indirilerek kullanılabilir. 
+İndirilen veri seti Google Drive ortamına yüklenmelidir.
+
+Misc içerisinde verilen kütüphaneler indirilmelidir. Hazırlanan modeller 
+Google Colaboratory ortamında veri setinin yüklü olduğu Google Drive ile
+bağlantısı kurularak çalıştırılabilir.

@@ -1,0 +1,20 @@
+Hazırlanan kodlar Python programlama dili hazırlanmıştır. 
+
+Google Colaboratory ortamlarında platform bağımsız çalıştırılabilir. Veri seti 
+Google Drive ortamına kaydedilmesi gerekmektedir.
+
+Veri seti, Database klasoründe verilen linkten indirilerek kullanılabilir.
+
+Hazırlanan kodları kullanabilmek için indirilmesi gereken python kütüphaneleri:
+- os
+- pickle
+- PIL
+- numpy
+- matplotlib
+- tqdm
+- tensorflow
+- keras
+- nltk
+- json
+
+
